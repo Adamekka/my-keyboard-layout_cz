@@ -2,7 +2,10 @@
 
 This is QWERTY US layout with number row from CZ layout
 
-### Installation
+## Showcase
+
+![alt keyboardlayout](./images/keyboardlayout.jpg)
+## Installation
 
 ```
 git clone https://github.com/Adamekka/my-keyboard-layout_cz
@@ -10,7 +13,7 @@ cd my-keyboard-layout_cz/
 sudo cp zz /usr/share/X11/xkb/symbols/zz
 ```
 
-### Setting up
+## Setting up
 
 To set my layout run
 ```
